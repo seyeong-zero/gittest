@@ -10,12 +10,17 @@ public class Mini01 {
 			}
 <<<<<<< HEAD
 			System.out.println("메인은 그대로진행.");
+<<<<<<< HEAD
 			System.out.println("keep goinssg");
 =======
 			System.out.println("버그 수정중 .행");
 			System.out.println("new_branch 생성했습니다");
 			System.out.println("new_branch 수정합니다. 줄 추가");
 >>>>>>> new_branch
+=======
+			System.out.println("B-3.");
+
+>>>>>>> new_branch3
 		}
 
 	}
