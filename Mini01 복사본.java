@@ -9,7 +9,7 @@ public class Mini01 {
 				System.out.print(msg);
 			}
 			System.out.println("메인은 그대로진행.");
-			System.out.println("수정합니다.");
+			System.out.println("B-3.");
 
 		}
 
