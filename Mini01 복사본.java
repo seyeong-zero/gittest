@@ -8,7 +8,7 @@ public class Mini01 {
 				String msg = String.format("%02d * %02d = %02d\t", i, j, j * i);
 				System.out.print(msg);
 			}
-			System.out.println("수정중입니다.");
+			System.out.println("버그 수정중 .");
 		}
 
 	}
