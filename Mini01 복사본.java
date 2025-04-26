@@ -10,7 +10,7 @@ public class Mini01 {
 			}
 			System.out.println("버그 수정중 .행");
 			System.out.println("new_branch 생성했습니다");
-			System.out.println("new_branch 확인위해 줄 추가");
+			System.out.println("new_branch 수정합니다. 줄 추가");
 		}
 
 	}
