@@ -8,9 +8,12 @@ public class Mini01 {
 				String msg = String.format("%02d * %02d = %02d\t", i, j, j * i);
 				System.out.print(msg);
 			}
+<<<<<<< HEAD
 			System.out.println("메인은 그대로진행.");
 			System.out.println("수정합니다.");
 
+=======
+>>>>>>> bug_fix
 		}
 
 	}
