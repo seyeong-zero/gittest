@@ -8,8 +8,14 @@ public class Mini01 {
 				String msg = String.format("%02d * %02d = %02d\t", i, j, j * i);
 				System.out.print(msg);
 			}
+<<<<<<< HEAD
 			System.out.println("메인은 그대로진행.");
 			System.out.println("keep goinssg");
+=======
+			System.out.println("버그 수정중 .행");
+			System.out.println("new_branch 생성했습니다");
+			System.out.println("new_branch 수정합니다. 줄 추가");
+>>>>>>> new_branch
 		}
 
 	}
