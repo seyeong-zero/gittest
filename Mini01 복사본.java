@@ -9,7 +9,7 @@ public class Mini01 {
 				System.out.print(msg);
 			}
 			System.out.println("메인은 그대로진행.");
-			System.out.println("keep going");
+			System.out.println("keep goinssg");
 		}
 
 	}
