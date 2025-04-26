@@ -8,7 +8,8 @@ public class Mini01 {
 				String msg = String.format("%02d * %02d = %02d\t", i, j, j * i);
 				System.out.print(msg);
 			}
-			System.out.println("버그 수정중 .");
+			System.out.println("버그 수정중 .행");
+			System.out.println("new_branch 생성했습니다");
 		}
 
 	}
